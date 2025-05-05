@@ -1,0 +1,2 @@
+A database is an organized collection of structured information that can be easily accessed, managed, and updated. It stores data in tables, where each table consists of rows and columns. Databases are essential for handling large volumes of data efficiently and securely. For example, schools use databases to manage student grades and attendance, banks use them to store account information and transactions, and e-commerce platforms use them to manage product inventories and customer orders.
+

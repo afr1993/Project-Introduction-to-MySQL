@@ -1,0 +1,1 @@
+INT was used for studentId and age because these are numeric values. VARCHAR is ideal for firstName, lastName, and email because these are variable-length text fields. Using appropriate data types improves storage efficiency and ensures data integrity.

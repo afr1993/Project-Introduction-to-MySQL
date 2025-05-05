@@ -1,0 +1,1 @@
+Databases offer better data consistency, scalability, and multi-user access compared to spreadsheets. They support powerful querying (SQL), data validation, and relationships between data, making them ideal for complex systems like school management or online stores.
